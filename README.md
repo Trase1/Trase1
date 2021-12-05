@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Trase1
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning Kotlin & Android Studio
